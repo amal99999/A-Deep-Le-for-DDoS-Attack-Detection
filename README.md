@@ -20,11 +20,4 @@ NumPy
 Pandas
 Scikit-learn
 Matplotlib
- 
 
-Epochs: 10, 20, 30
-Optimizer: Adam
-Loss function: Binary cross-entropy
-Activation functions: ReLU, Sigmoid
-Learning rate: 0.001
-Batch size: 64
