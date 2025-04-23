@@ -15,11 +15,11 @@ https://www.unb.ca/cic/datasets/ddos-2019.html
 * Gated Recurrent Units (GRU) with Bidirectional Long-Short Term Memory (BiLSTM)
 # Environment Config.
 
-Python 3.8+
-TensorFlow 2.x
-Keras
-NumPy
-Pandas
-Scikit-learn
-Matplotlib
-
+* Python 3.8.0
+* TensorFlow 2.x
+* Keras
+* NumPy
+* Pandas
+* Scikit-learn
+* Matplotlib
+*Anaconda Navigator environment.
